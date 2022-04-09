@@ -1,0 +1,1 @@
+Tuve que borrar /debug/ del archivo ".gitignore" para que el push incluya dicha carpeta.
