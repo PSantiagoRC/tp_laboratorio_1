@@ -84,7 +84,6 @@ int main(void) {
 					Sleep(1000);
 					printf("\n\t1...");
 					Sleep(1000);
-					salida = 0;
 				}
 				else
 				{
@@ -108,7 +107,6 @@ int main(void) {
 					Sleep(1000);
 					printf("\n\t1...");
 					Sleep(1000);
-					salida = 0;
 				}
 				else
 				{
@@ -128,7 +126,6 @@ int main(void) {
 					Sleep(1000);
 					printf("\n\t1...");
 					Sleep(1000);
-					salida = 0;
 				}
 				else
 				{
@@ -148,7 +145,6 @@ int main(void) {
 					Sleep(1000);
 					printf("\n\t1...");
 					Sleep(1000);
-					salida = 0;
 					cargaInicial4 = 0;
 				}
 				else
@@ -208,6 +204,7 @@ int main(void) {
 				Sleep(1000);
 				printf("\n\t1...");
 				Sleep(1000);
+
 				salida = 0;
 				break;
 		}
