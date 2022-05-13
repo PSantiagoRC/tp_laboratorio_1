@@ -37,8 +37,10 @@ int rel_Pass_Flight_ListaPassengersPorFlycode(ePassenger arrayPassengers[], int 
 /// @return
 
 
-/*NO UTILIZADAS
 
+/*
+
+NO UTILIZADAS
 void rel_hardcode(ePassenger *arrayPassengers, eFlight *arrayFlights);
 /// @fn void rel_hardcode(ePassenger*, eFlight*)
 /// @param arrayPassengers

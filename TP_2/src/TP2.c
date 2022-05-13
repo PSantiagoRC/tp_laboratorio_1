@@ -47,6 +47,8 @@ int main(void) {
 
 		switch (opcionMenu1) {
 		case 1:
+			//rel_hardcode(arrayPassengers, arrayFlights);
+			//puts("Hardcodeado");
 		    if(rel_Pass_Flight_alta(arrayPassengers, arrayFlights, CANT_PASSENGERS, CANT_FLIGHTS)>=0)
 		    	{
 		    		flag = 1;
@@ -102,9 +104,6 @@ int main(void) {
 					ePassenger_aboveMeanPrice(arrayPassengers, CANT_PASSENGERS, OCUPADO);
 					break;
 				case 3:
-					//reta = eFlight_charIdExists(arrayFlights, CANT_FLIGHTS, "abc1");
-					//printf("El retorno es %d", reta);
-					//eFlight_printMult(arrayFlights, CANT_FLIGHTS, OCUPADO);
 					rel_Pass_Flight_ListaPassengersPorFlycode(arrayPassengers, CANT_PASSENGERS, arrayFlights, CANT_FLIGHTS, 1);
 					break;
 				default:

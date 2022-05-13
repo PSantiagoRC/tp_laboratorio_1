@@ -45,19 +45,29 @@ int rel_Pass_Flight_alta(ePassenger arrayPassengers[], eFlight arrayFlights[],
 								passengerBuffer.typePassenger,
 								passengerBuffer.FK_flycode) == 0) {
 
+							//arrayPassengers[emptyIndexPassengers].isEmpty = OCUPADO;
+							//printf("id: %d\n",arrayPassengers[emptyIndexPassengers].PK_id);
+							//printf("name: %s\n",arrayPassengers[emptyIndexPassengers].name);
+							//printf("lastname: %s\n",arrayPassengers[emptyIndexPassengers].lastName);
+							//printf("price: %f\n",arrayPassengers[emptyIndexPassengers].price);
+							//printf("typePassenger: %d\n",arrayPassengers[emptyIndexPassengers].typePassenger);
+							//printf("FK_flycode: %s\n",arrayPassengers[emptyIndexPassengers].FK_flycode);
+							//printf("isEmpty: %d\n",arrayPassengers[emptyIndexPassengers].isEmpty);
+
 							puts("Carga de pasajero exitosa!");
-							printf("Prueba, nombre cargado: %s",arrayPassengers[emptyIndexPassengers].name);
 						}
 						//arrayPassengers[emptyIndexPassengers] = passengerBuffer;
 						if (eFlight_charIdExists(arrayFlights, tamFlights,
-								flightBuffer.flycode) != 0) //Ya existe el vuelo en array
+								arrayPassengers[emptyIndexPassengers].FK_flycode) != 0) //No existe el vuelo en array
 								{
-							arrayFlights[emptyIndexFlights] = flightBuffer;
-							puts("Carga de vuelo exitosa!");
-						}else{
-							arrayFlights[emptyIndexFlights] = flightBuffer;
-							puts("Carga de vuelo exitosa!");
+							puts("charIdExists no retornó 0, el vuelo no existe!");
 							strcpy(flightBuffer.flycode, passengerBuffer.FK_flycode);
+							arrayFlights[emptyIndexFlights] = flightBuffer;
+							puts("Vuelo cargado!");
+							eFlight_printMult(arrayFlights, tamFlights, OCUPADO);
+						}else{
+							puts("charIdExists retornó 0, el vuelo existía!");
+							puts("No se cargó el vuelo en array vuelos!");
 					}
 				} else {
 					puts("Se decidió no dar el alta");
@@ -173,7 +183,7 @@ int rel_Pass_Flight_ListaPassengersPorFlycode(ePassenger arrayPassengers[],
 				eFlight_SortByFlyCode(arrayFlights, tamFlights, criterio);
 
 				for (int i = 0; i < tamFlights; i++) {
-					if (arrayFlights[i].statusFlight == 0
+					if (arrayFlights[i].statusFlight == ACTIVO
 							&& arrayFlights[i].isEmpty == OCUPADO) {
 						strncpy(targetFlycode, arrayFlights[i].flycode,
 						TAM_FLYCODE);
@@ -213,8 +223,6 @@ int rel_Pass_Flight_ListaPassengersPorFlycode(ePassenger arrayPassengers[],
 }
 
 /*
- * NO UTILIZADAS
- *
 void rel_hardcode(ePassenger *arrayPassengers, eFlight *arrayFlights) {
 	//HARDCODE 1
 	arrayPassengers[0].PK_id = 10096;

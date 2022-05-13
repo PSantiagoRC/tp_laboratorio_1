@@ -235,9 +235,8 @@ ePassenger ePassenger_editOnePassenger(ePassenger p, int* flagChangeFlyCode) {
 		break;
 	case 5:
 		*flagChangeFlyCode = 1;
-		utn_getStringWNum("Ingrese código de vuelo (5 digitos).\n", "Error. Reingrese un código válido (5 dígitos).\n",
-				2,
-				TAM_FLYCODE, p.FK_flycode);
+		utn_getStringWNum("Ingrese codigo de vuelo (5 digitos).\n", "Error. Reingrese un codigo valido (5 dígitos).\n",
+				2, TAM_FLYCODE, p.FK_flycode);
 	default:
 		break;
 	}
