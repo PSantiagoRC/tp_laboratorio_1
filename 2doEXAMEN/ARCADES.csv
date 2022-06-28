@@ -1,0 +1,502 @@
+id_arcade,rel_sala,rel_juego,sound_type,token_capacity,num_players,country
+1,255,51,stereo,335,2,Japan
+2,235,207,stereo,138,3,Japan
+3,44,45,stereo,320,1,Japan
+4,15,342,stereo,289,1,United States
+5,257,77,stereo,348,1,Japan
+6,224,378,mono,140,4,United States
+7,257,36,mono,218,4,Japan
+8,133,186,mono,24,1,United States
+9,117,309,stereo,414,4,United States
+10,282,97,stereo,140,3,United States
+11,36,163,stereo,191,4,Japan
+12,230,152,stereo,328,4,Japan
+13,264,288,mono,60,2,Japan
+14,7,333,mono,321,4,Japan
+15,214,139,stereo,114,4,United States
+16,277,273,mono,12,3,United States
+17,278,273,stereo,325,2,United States
+18,213,284,stereo,7,2,Japan
+19,207,339,stereo,316,4,Japan
+20,143,214,stereo,473,4,United States
+21,139,246,mono,187,2,United States
+22,29,220,stereo,287,2,Japan
+23,291,75,mono,34,1,United States
+24,230,37,mono,125,1,Japan
+25,246,213,mono,497,2,United States
+26,21,100,stereo,320,3,United States
+27,263,346,mono,250,4,United States
+28,276,237,mono,250,3,Japan
+29,54,132,stereo,290,2,Japan
+30,280,293,stereo,106,2,United States
+31,180,155,mono,174,2,United States
+32,236,76,mono,273,4,Japan
+33,216,51,stereo,307,4,United States
+34,245,312,stereo,56,3,United States
+35,297,334,mono,394,4,United States
+36,67,11,mono,305,4,United States
+37,71,76,mono,448,2,United States
+38,63,310,stereo,372,4,United States
+39,60,60,stereo,40,1,United States
+40,235,346,stereo,323,1,United States
+41,218,73,mono,321,4,United States
+42,235,9,stereo,281,2,Japan
+43,84,46,stereo,221,2,United States
+44,93,74,stereo,274,2,Japan
+45,63,138,mono,458,4,Japan
+46,61,16,stereo,71,2,United States
+47,151,52,stereo,292,3,Japan
+48,238,62,stereo,483,3,Japan
+49,171,380,mono,4,4,United States
+50,44,139,mono,342,3,United States
+51,221,201,mono,396,1,United States
+52,175,165,stereo,434,2,Japan
+53,147,287,stereo,165,3,Japan
+54,167,275,stereo,42,1,Japan
+55,196,135,stereo,176,4,United States
+56,87,198,mono,451,2,Japan
+57,148,292,stereo,93,3,Japan
+58,93,200,stereo,287,4,Japan
+59,179,286,stereo,309,3,United States
+60,232,252,mono,490,2,United States
+61,172,114,stereo,118,1,United States
+62,37,94,mono,301,1,United States
+63,188,45,stereo,198,2,United States
+64,101,15,stereo,171,2,Japan
+65,84,106,mono,222,4,United States
+66,217,324,mono,268,2,United States
+67,78,340,mono,335,2,United States
+68,219,41,mono,110,1,United States
+69,260,25,stereo,93,3,United States
+70,268,207,mono,273,1,United States
+71,97,65,mono,446,4,United States
+72,58,264,stereo,457,3,Japan
+73,136,60,stereo,342,3,Japan
+74,298,52,stereo,223,2,United States
+75,59,211,stereo,104,2,Japan
+76,300,152,stereo,156,1,United States
+77,287,82,stereo,386,4,Japan
+78,50,356,mono,128,1,United States
+79,277,59,mono,355,4,United States
+80,11,145,mono,121,3,United States
+81,164,320,stereo,73,3,United States
+82,149,116,stereo,239,4,United States
+83,209,100,mono,146,2,United States
+84,263,20,mono,258,2,United States
+85,11,64,stereo,91,2,United States
+86,111,67,stereo,308,4,Japan
+87,189,61,mono,218,1,Japan
+88,39,17,mono,180,1,Japan
+89,87,160,stereo,283,4,United States
+90,40,342,stereo,410,2,Japan
+91,284,90,mono,42,4,United States
+92,126,188,stereo,448,1,United States
+93,168,97,stereo,159,1,United States
+94,98,344,stereo,500,4,United States
+95,7,54,mono,459,4,United States
+96,29,64,mono,331,3,Japan
+97,153,73,stereo,421,4,Japan
+98,4,116,stereo,50,1,Japan
+99,177,36,stereo,428,2,Japan
+100,299,46,mono,162,2,United States
+101,38,166,mono,129,3,Japan
+102,74,390,stereo,474,1,Japan
+103,42,324,mono,24,3,Japan
+104,34,245,stereo,1,4,United States
+105,255,370,mono,446,2,Japan
+106,43,240,stereo,497,4,United States
+107,95,382,stereo,461,2,Japan
+108,23,363,stereo,244,4,United States
+109,209,294,stereo,378,3,United States
+110,216,388,mono,366,3,Japan
+111,142,276,stereo,169,1,Japan
+112,73,192,mono,190,3,United States
+113,172,400,stereo,65,4,United States
+114,69,189,stereo,406,4,Japan
+115,279,222,stereo,224,3,United States
+116,59,397,mono,342,2,Japan
+117,169,349,mono,477,3,Japan
+118,102,137,stereo,196,3,Japan
+119,114,69,mono,213,2,United States
+120,82,313,stereo,229,2,United States
+121,168,319,mono,64,4,United States
+122,157,62,mono,469,1,United States
+123,65,250,mono,490,3,United States
+124,21,20,stereo,157,2,United States
+125,84,15,stereo,478,1,United States
+126,147,117,stereo,94,1,Japan
+127,43,374,stereo,34,3,United States
+128,195,172,stereo,175,4,Japan
+129,166,235,stereo,474,4,United States
+130,99,183,stereo,24,4,Japan
+131,51,289,mono,300,1,Japan
+132,95,1,mono,212,3,Japan
+133,167,120,stereo,234,4,Japan
+134,156,390,stereo,155,2,United States
+135,63,97,stereo,213,4,United States
+136,93,127,stereo,138,4,Japan
+137,39,23,mono,116,1,Japan
+138,234,166,mono,283,4,United States
+139,268,179,mono,314,1,United States
+140,242,52,mono,68,4,Japan
+141,286,251,stereo,443,2,Japan
+142,217,362,mono,322,2,United States
+143,221,47,mono,131,3,Japan
+144,32,148,stereo,274,1,United States
+145,139,357,mono,52,4,Japan
+146,266,168,stereo,274,4,Japan
+147,201,246,stereo,470,1,United States
+148,196,200,stereo,430,2,United States
+149,36,324,stereo,137,4,United States
+150,213,387,stereo,261,3,United States
+151,50,141,stereo,479,3,Japan
+152,33,77,stereo,326,4,United States
+153,182,157,mono,29,1,Japan
+154,110,125,stereo,500,1,United States
+155,214,176,mono,378,3,United States
+156,136,249,mono,138,1,United States
+157,237,351,stereo,58,3,United States
+158,71,391,stereo,125,2,Japan
+159,151,128,mono,129,4,United States
+160,87,282,mono,97,1,Japan
+161,195,87,stereo,432,2,Japan
+162,5,80,mono,180,4,Japan
+163,131,86,mono,201,2,Japan
+164,218,140,mono,282,3,Japan
+165,288,315,mono,61,4,Japan
+166,272,206,mono,446,2,United States
+167,112,228,stereo,34,4,United States
+168,252,239,stereo,493,1,Japan
+169,104,156,mono,13,2,United States
+170,31,345,mono,283,4,Japan
+171,270,238,stereo,123,4,United States
+172,254,379,stereo,312,1,United States
+173,96,368,mono,112,2,United States
+174,267,178,stereo,181,2,Japan
+175,97,96,mono,79,4,Japan
+176,55,343,stereo,295,1,United States
+177,168,106,stereo,411,3,Japan
+178,188,198,stereo,445,2,Japan
+179,212,248,stereo,97,4,Japan
+180,159,386,stereo,214,2,Japan
+181,277,249,mono,282,4,United States
+182,33,273,stereo,485,2,United States
+183,126,207,mono,434,1,United States
+184,86,46,stereo,8,1,Japan
+185,216,257,mono,489,3,Japan
+186,133,52,stereo,481,2,United States
+187,122,304,mono,262,3,United States
+188,96,132,stereo,323,2,Japan
+189,265,23,stereo,41,3,United States
+190,141,174,mono,300,1,United States
+191,134,96,mono,142,4,Japan
+192,159,285,mono,415,1,Japan
+193,219,58,mono,261,2,United States
+194,125,110,stereo,119,1,United States
+195,34,188,stereo,352,1,Japan
+196,169,155,mono,479,1,Japan
+197,104,329,stereo,188,2,Japan
+198,220,195,mono,330,3,United States
+199,161,227,mono,303,1,Japan
+200,23,246,mono,283,3,Japan
+201,58,194,stereo,419,1,Japan
+202,48,332,mono,207,2,Japan
+203,290,297,mono,281,2,Japan
+204,194,152,mono,38,3,Japan
+205,125,369,stereo,262,4,Japan
+206,112,302,mono,456,4,Japan
+207,11,329,mono,204,2,United States
+208,289,258,stereo,385,3,United States
+209,107,132,mono,3,2,United States
+210,33,152,stereo,227,2,Japan
+211,221,272,mono,322,2,Japan
+212,181,21,mono,463,3,United States
+213,62,11,stereo,271,4,Japan
+214,37,92,mono,193,2,United States
+215,175,90,mono,279,4,United States
+216,187,315,mono,227,3,Japan
+217,300,4,mono,199,4,Japan
+218,277,350,mono,96,4,United States
+219,28,338,stereo,244,3,United States
+220,236,42,mono,135,3,United States
+221,51,318,mono,226,2,United States
+222,259,320,stereo,5,3,United States
+223,78,188,stereo,437,2,United States
+224,272,252,mono,269,4,Japan
+225,29,249,mono,204,1,United States
+226,247,221,stereo,8,1,United States
+227,288,211,mono,277,4,United States
+228,216,204,stereo,435,1,Japan
+229,199,294,stereo,36,2,Japan
+230,253,232,stereo,181,3,United States
+231,102,110,mono,135,3,Japan
+232,172,137,stereo,414,2,Japan
+233,79,188,stereo,261,1,Japan
+234,236,305,mono,201,1,Japan
+235,233,112,stereo,23,4,Japan
+236,232,230,stereo,41,1,Japan
+237,38,204,stereo,210,3,Japan
+238,41,314,stereo,351,3,United States
+239,11,6,mono,6,4,United States
+240,57,106,stereo,490,2,United States
+241,144,348,stereo,261,1,United States
+242,78,299,mono,256,4,Japan
+243,82,63,mono,31,1,Japan
+244,85,190,stereo,364,3,Japan
+245,48,130,mono,42,2,United States
+246,240,239,mono,493,1,Japan
+247,14,210,stereo,89,4,Japan
+248,260,137,mono,24,1,Japan
+249,180,239,mono,287,3,United States
+250,224,30,stereo,43,2,United States
+251,71,23,stereo,411,2,Japan
+252,202,288,mono,108,4,United States
+253,18,375,stereo,97,2,Japan
+254,108,61,stereo,275,3,Japan
+255,150,108,stereo,444,3,United States
+256,49,280,mono,169,1,United States
+257,143,250,stereo,158,1,United States
+258,269,233,stereo,280,2,Japan
+259,299,241,mono,238,3,United States
+260,5,243,mono,131,3,Japan
+261,269,213,stereo,223,1,United States
+262,239,317,stereo,285,2,United States
+263,39,133,stereo,356,2,Japan
+264,256,76,stereo,499,1,Japan
+265,22,67,stereo,5,3,United States
+266,149,337,mono,390,3,Japan
+267,259,149,mono,374,2,Japan
+268,252,373,stereo,146,2,Japan
+269,128,146,stereo,71,2,Japan
+270,226,209,mono,150,2,United States
+271,186,31,stereo,340,3,United States
+272,201,210,stereo,133,1,Japan
+273,187,319,mono,258,3,Japan
+274,114,381,stereo,83,3,Japan
+275,186,315,mono,69,3,United States
+276,44,338,stereo,394,3,United States
+277,178,230,stereo,31,3,Japan
+278,191,54,mono,259,3,Japan
+279,159,51,stereo,337,1,United States
+280,265,164,mono,164,3,United States
+281,78,33,stereo,493,2,United States
+282,42,89,mono,405,4,United States
+283,4,348,mono,188,4,United States
+284,251,104,mono,336,2,Japan
+285,90,89,stereo,395,3,Japan
+286,95,210,stereo,15,3,United States
+287,230,319,stereo,181,1,United States
+288,228,51,stereo,489,1,Japan
+289,160,110,mono,293,2,Japan
+290,280,380,mono,37,1,United States
+291,297,184,stereo,289,4,Japan
+292,192,207,mono,480,4,United States
+293,203,197,mono,307,3,United States
+294,66,38,mono,110,3,United States
+295,194,312,stereo,273,4,Japan
+296,283,389,stereo,276,1,United States
+297,206,217,mono,460,2,United States
+298,111,382,stereo,146,2,United States
+299,170,94,stereo,500,2,Japan
+300,52,151,stereo,377,4,Japan
+301,11,356,stereo,159,2,Japan
+302,219,360,stereo,271,3,United States
+303,86,6,stereo,16,2,Japan
+304,170,97,mono,496,4,United States
+305,251,277,mono,343,1,United States
+306,114,344,stereo,446,4,United States
+307,95,17,mono,118,3,Japan
+308,98,82,stereo,287,3,Japan
+309,153,68,mono,487,2,Japan
+310,153,332,mono,330,2,Japan
+311,298,42,mono,68,4,United States
+312,133,174,stereo,27,3,Japan
+313,93,74,mono,385,1,Japan
+314,251,352,stereo,476,1,Japan
+315,140,142,mono,444,1,United States
+316,191,266,stereo,428,3,Japan
+317,273,224,stereo,117,2,Japan
+318,52,88,mono,147,4,Japan
+319,258,264,mono,447,2,United States
+320,280,155,mono,495,2,Japan
+321,277,344,stereo,355,4,Japan
+322,285,15,stereo,351,4,Japan
+323,169,223,mono,266,3,United States
+324,159,35,mono,43,2,United States
+325,281,126,stereo,196,1,Japan
+326,241,201,stereo,415,2,United States
+327,144,7,stereo,84,4,Japan
+328,37,319,mono,38,4,United States
+329,158,1,mono,341,4,Japan
+330,273,351,stereo,42,1,Japan
+331,107,2,mono,438,2,United States
+332,29,350,stereo,408,4,Japan
+333,280,37,mono,265,3,Japan
+334,191,338,stereo,336,4,United States
+335,110,84,mono,244,1,United States
+336,258,10,mono,88,4,United States
+337,5,243,stereo,230,4,Japan
+338,58,108,mono,263,4,United States
+339,93,223,mono,336,3,United States
+340,244,117,mono,182,2,United States
+341,214,299,stereo,140,4,Japan
+342,258,1,stereo,412,3,United States
+343,144,57,stereo,82,1,United States
+344,84,114,stereo,47,1,United States
+345,256,358,stereo,287,2,United States
+346,24,43,mono,463,3,Japan
+347,189,167,mono,183,1,Japan
+348,242,73,mono,351,4,United States
+349,19,209,stereo,181,1,United States
+350,279,377,mono,206,2,Japan
+351,155,234,mono,305,3,Japan
+352,72,209,stereo,491,4,United States
+353,205,36,stereo,41,2,Japan
+354,278,303,stereo,198,2,Japan
+355,58,192,mono,490,3,Japan
+356,221,255,mono,213,1,United States
+357,245,246,stereo,487,4,United States
+358,75,224,stereo,202,2,United States
+359,42,311,stereo,348,2,Japan
+360,189,40,mono,300,4,Japan
+361,285,68,stereo,251,1,United States
+362,194,17,stereo,490,4,United States
+363,46,366,mono,57,3,Japan
+364,242,397,stereo,2,4,United States
+365,249,28,stereo,105,2,United States
+366,172,314,mono,263,1,Japan
+367,73,28,mono,44,1,United States
+368,45,9,stereo,77,3,United States
+369,207,311,mono,8,1,Japan
+370,32,220,stereo,131,1,Japan
+371,274,397,stereo,100,2,Japan
+372,229,107,stereo,120,1,Japan
+373,258,43,mono,185,4,United States
+374,186,162,stereo,126,2,United States
+375,79,95,stereo,455,2,Japan
+376,57,153,stereo,234,2,United States
+377,177,177,stereo,339,4,United States
+378,96,188,stereo,386,1,United States
+379,72,337,mono,365,3,United States
+380,25,388,stereo,174,4,Japan
+381,277,122,stereo,79,4,United States
+382,126,59,mono,46,1,United States
+383,13,132,mono,250,4,Japan
+384,55,165,stereo,162,2,Japan
+385,163,32,mono,363,1,Japan
+386,261,394,stereo,176,3,United States
+387,218,282,stereo,240,3,United States
+388,39,171,stereo,77,2,Japan
+389,36,293,mono,470,2,Japan
+390,144,388,mono,245,4,United States
+391,200,225,mono,251,1,United States
+392,134,123,stereo,53,1,United States
+393,138,376,stereo,404,4,Japan
+394,118,37,mono,460,1,United States
+395,73,278,mono,27,2,United States
+396,148,63,stereo,430,2,Japan
+397,300,352,mono,237,1,United States
+398,39,256,mono,196,4,Japan
+399,117,117,mono,255,4,United States
+400,242,100,mono,141,3,United States
+401,59,23,stereo,63,1,Japan
+402,186,179,stereo,212,3,United States
+403,258,317,stereo,62,1,United States
+404,262,381,stereo,479,1,Japan
+405,219,335,mono,408,1,United States
+406,65,400,stereo,94,4,United States
+407,263,21,mono,462,4,Japan
+408,265,114,mono,140,2,Japan
+409,64,308,stereo,9,2,United States
+410,30,115,stereo,299,3,United States
+411,195,277,stereo,345,3,Japan
+412,27,37,stereo,375,2,United States
+413,7,38,mono,162,4,Japan
+414,177,90,stereo,49,4,Japan
+415,180,223,stereo,172,4,United States
+416,98,277,stereo,204,3,United States
+417,105,138,mono,358,2,Japan
+418,265,134,stereo,237,1,Japan
+419,56,271,mono,104,1,United States
+420,207,161,mono,110,1,Japan
+421,288,341,stereo,426,1,United States
+422,100,372,mono,327,3,Japan
+423,144,139,mono,68,3,United States
+424,39,165,stereo,144,4,Japan
+425,255,52,stereo,451,3,Japan
+426,297,320,mono,10,4,United States
+427,135,25,mono,299,1,United States
+428,13,212,stereo,269,1,United States
+429,165,24,mono,160,3,Japan
+430,289,307,stereo,399,4,United States
+431,140,118,mono,370,3,Japan
+432,112,252,mono,268,4,United States
+433,205,336,stereo,165,2,United States
+434,288,110,mono,430,2,Japan
+435,242,82,stereo,141,1,Japan
+436,292,146,mono,412,1,United States
+437,55,395,stereo,355,2,Japan
+438,82,87,mono,224,4,United States
+439,227,211,mono,92,2,United States
+440,228,321,stereo,5,3,Japan
+441,242,355,stereo,134,3,Japan
+442,269,244,mono,311,2,United States
+443,8,343,mono,162,3,Japan
+444,104,14,mono,463,4,Japan
+445,222,361,mono,193,3,United States
+446,135,170,mono,454,2,Japan
+447,167,80,mono,257,2,United States
+448,65,176,stereo,435,3,Japan
+449,123,251,stereo,300,4,Japan
+450,120,20,stereo,251,2,Japan
+451,148,128,mono,353,4,United States
+452,30,123,mono,403,1,Japan
+453,105,42,mono,38,4,United States
+454,40,100,stereo,446,1,United States
+455,21,330,mono,191,4,United States
+456,184,306,stereo,40,3,United States
+457,32,28,mono,403,4,United States
+458,278,339,stereo,335,4,Japan
+459,279,19,stereo,41,1,Japan
+460,1,333,stereo,126,2,United States
+461,136,152,stereo,3,4,United States
+462,242,296,stereo,1,1,Japan
+463,64,134,stereo,111,3,United States
+464,281,209,stereo,373,1,United States
+465,159,43,stereo,212,2,United States
+466,248,110,mono,483,3,United States
+467,231,53,mono,157,2,United States
+468,176,138,mono,168,2,Japan
+469,217,66,stereo,480,2,United States
+470,64,157,stereo,273,1,United States
+471,297,185,stereo,414,3,United States
+472,54,328,mono,495,2,United States
+473,289,10,stereo,372,2,United States
+474,176,8,mono,37,4,Japan
+475,189,4,stereo,406,4,United States
+476,278,153,stereo,93,2,Japan
+477,220,194,mono,185,2,Japan
+478,157,268,mono,17,1,United States
+479,220,165,stereo,48,1,United States
+480,222,392,mono,70,2,United States
+481,134,389,mono,243,3,United States
+482,46,9,stereo,79,2,United States
+483,9,23,stereo,47,3,United States
+484,235,131,mono,143,4,Japan
+485,168,148,stereo,225,1,Japan
+486,5,42,mono,6,3,Japan
+487,252,200,mono,238,1,Japan
+488,123,66,stereo,421,3,United States
+489,222,138,stereo,224,2,United States
+490,217,341,stereo,253,3,United States
+491,209,389,stereo,18,4,Japan
+492,113,383,stereo,149,4,United States
+493,214,67,mono,305,3,Japan
+494,47,38,mono,479,3,Japan
+495,233,309,mono,281,4,Japan
+496,166,295,stereo,94,2,United States
+497,136,310,stereo,359,2,United States
+498,57,75,stereo,18,4,Japan
+499,280,281,stereo,212,2,Japan
+500,64,18,stereo,166,1,United States
+
