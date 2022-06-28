@@ -7,21 +7,7 @@
 
 #define LEN_PATH 100
 
-/****************************************************
-    Menu:
-     1. Cargar los datos de los pasajeros desde el archivo data.csv (modo texto).
-     2. Cargar los datos de los pasajeros desde el archivo data.csv (modo binario).
-     3. Alta de pasajero
-     4. Modificar datos de pasajero
-     5. Baja de pasajero
-     6. Listar pasajeros
-     7. Ordenar pasajeros
-     8. Guardar los datos de los pasajeros en el archivo data.csv (modo texto).
-     9. Guardar los datos de los pasajeros en el archivo data.csv (modo binario).
-    10. Salir
-*****************************************************/
-
-
+//PUNTO EXTRA: OBTENER UNA NUEVA LISTA FILTRADA (BASARLO EN SORT)
 
 int main()
 {
@@ -99,10 +85,10 @@ int main()
 					puts("\nProblema con alta.");
 				}
 				break;
-            /*
+
             case 5: //MODIFICACION
-            	if(!controller_ListPassenger(punterosPasajeros) && !controller_editPassenger(punterosPasajeros)){
-            		if(!controller_ListPassenger(punterosPasajeros)){
+            	if(!controller_editArcade(punterosArcades, punterosGames,punterosRooms)){
+            		if(!controller_ListArcade(punterosArcades, punterosGames, punterosRooms)){
             			puts("\nModificacion OK.");
             		}
             	}else{
@@ -110,7 +96,7 @@ int main()
             	}
 
               	break;
-*/
+
             case 6: //BAJA
             	if(!controller_removeArcade(punterosArcades, 0, punterosGames, punterosRooms)){
             		puts("\nBaja OK.");

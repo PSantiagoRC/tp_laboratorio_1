@@ -370,6 +370,48 @@ int controller_buscarPorIdLinkedListArcades(LinkedList* pArrayListArcade, int id
 	return retorno;
 }
 
+int controller_editArcade(LinkedList* pArrayListArcade, LinkedList* pArrayListGame, LinkedList* pArrayListRooms){
+	int retorno = -1;
+
+	int id;
+	int opcion;
+	int newNumPlayers;
+	int newRelJuego;
+	int indexModif;
+	Arcade* a;
+
+	controller_ListArcade(pArrayListArcade, pArrayListGame, pArrayListRooms);
+	if(!utn_getInt("Ingrese id a modificar", "Error. Reingrese.", 1, SIZE_ARCADES, 3, &id)){
+		if(pArrayListArcade != NULL && id >= 0)
+		{
+			indexModif = controller_buscarPorIdLinkedListArcades(pArrayListArcade, id);
+			a = ll_get(pArrayListArcade, indexModif);
+		}
+		if(a!=NULL){
+			utn_getInt("Ingrese 0 para modificar cantidad de jugadores, ingrese 1 para modificar el juego.", "Error. Reingrese.", 0, 1, 3, &opcion);
+			if(opcion == 0){
+				utn_getInt("Ingrese nueva cantidad de jugadores.", "Error. Reingrese.", 0, 9999, 3, &newNumPlayers);
+				if(!Arcade_setNumJugadoresInt(a, newNumPlayers)){
+					retorno = 0;
+				}
+			}else{
+				if(opcion == 1){
+					controller_ListGame(pArrayListGame);
+					utn_getInt("Ingrese nuevo juego.", "Error. Reingrese.", 0, 9999, 3, &newRelJuego);
+					if(!Arcade_setRelJuegoInt(a, newRelJuego)){
+						retorno = 0;
+					}
+				}
+			}
+		}else{
+			puts("No se pudo modificar.");
+		}
+	}else{
+		puts("Error id a modificar.");
+	}
+	return retorno;
+}
+
 int controller_buscarPorRelSalaLinkedListArcades(LinkedList* pArrayListArcade, int relSala){
 	int retorno = -1;
 	int i;
@@ -390,106 +432,7 @@ int controller_buscarPorRelSalaLinkedListArcades(LinkedList* pArrayListArcade, i
 	return retorno;
 }
 
-/*
-int controller_editGame(LinkedList* pArrayListGame){
-	int retorno = 1;
 
-	int Id;
-	int indexModif;
-	int opc;
-	char nombre[NOMBRE_LEN];
-	char apellido[APELLIDO_LEN];
-	float precio;
-	char codigoVuelo[CODIGO_LEN];
-	int tipoPasajero;
-	char estadoVuelo[ESTADO_LEN];
-
-	Game* p = NULL;
-
-	if (pArrayListGame != NULL)
-	{
-
-		if(!utn_getInt("\nIngrese ID a modificar.\n", "\nError.Reingrese.\n", 1, 5000, 3, &Id))
-		{
-			indexModif = controller_buscarPorIdLinkedList(pArrayListGame, Id);
-			p = (Game*) ll_get(pArrayListGame, indexModif);
-			if(!utn_getInt("\nSeleccione campo a modificar:\n"
-							"1)Nombre\n"
-							"2)Apellido\n"
-							"3)Precio\n"
-							"4)Codigo de vuelo\n"
-							"5)Tipo de pasajero\n"
-							"6)Estado de vuelo\n", "\nError.Reingrese.\n", 1, 6, 3, &opc)){
-				switch(opc){
-					case 1:
-						if(!utn_getStringWONumFirstUpper("\nIngrese nombre (inicie Mayusc)", "\nError. Reingrese.", 3, NOMBRE_LEN, nombre))
-						{
-							if(!Game_setNombre(p, nombre))
-							{
-								retorno = 0;
-							}
-						}
-						break;
-					case 2:
-						if(!utn_getStringWONumFirstUpper("\nIngrese apellido (inicie Mayusc)", "\nError. Reingrese.", 3, APELLIDO_LEN, apellido))
-						{
-							if(!Game_setApellido(p, apellido))
-							{
-								retorno = 0;
-							}
-						}
-						break;
-					case 3:
-						if(!utn_getFloat(&precio, "\nIngrese precio", "\nError. Reingrese.", 0, MAX_PRECIO, 3))
-						{
-							if(!Game_setPrecio(p, precio))
-							{
-								retorno = 0;
-							}
-						}
-						break;
-					case 4:
-						if(!utn_getStringWNum("\nIngrese codigo de vuelo", "\nError. Reingrese.", 3, CODIGO_LEN, codigoVuelo))
-						{
-							if(!Game_setCodigoVuelo(p, codigoVuelo))
-							{
-								retorno = 0;
-							}
-						}
-						break;
-					case 5:
-						if(!utn_getInt("\nIngrese tipo pasajero: Economy(0), Executive(1), First(2)", "\nError. Ingrese el número de la opción correspondiente.", 0, 2, 3, &tipoPasajero))
-						{
-							if(!Game_setTipoPasajero(p, tipoPasajero))
-							{
-								retorno = 0;
-							}
-						}
-						break;
-					case 6:
-						if(!utn_getStringWONum("\nIngrese estado de vuelo: Demorado/En Vuelo/Aterrizado", "\nError. Reingrese.", 3, ESTADO_LEN, estadoVuelo))
-						{
-							if(!Game_setEstadoVuelo(p, estadoVuelo))
-							{
-								retorno = 0;
-							}
-						}
-						break;
-					default:
-						break;
-				}
-			}else{
-				retorno = -1;
-			}
-		}else{
-			retorno = -2;
-		}
-	}else{
-		retorno = -3;
-	}
-	return retorno;
-}
-*/
 
 int controller_ListGame(LinkedList* pArrayListGame)
 {
@@ -594,8 +537,6 @@ int controller_removeRoom(LinkedList* pArrayListRoom,int idBaja,LinkedList* pArr
 	int indexBaja;
 	int indexArcadeBaja;
 
-	Arcade* a;
-
 	if(pArrayListRoom!=NULL){
 		controller_ListRoom(pArrayListRoom);
 		if(idBaja==0){
@@ -609,9 +550,8 @@ int controller_removeRoom(LinkedList* pArrayListRoom,int idBaja,LinkedList* pArr
 			//r = ll_get(pArrayListRooms, indexBaja);
 			for(int i=0;i<ll_len(pArrayListArcade);i++){
 				if((indexArcadeBaja = controller_buscarPorRelSalaLinkedListArcades(pArrayListArcade, idBaja))>=0){
-					a = ll_get(pArrayListArcade,indexArcadeBaja);
-					printf("Se removerá el ID de Arcade: %d",a->id_arcade);
-					controller_removeArcade(pArrayListArcade, indexArcadeBaja, pArrayListGame, pArrayListRoom);
+					//a = ll_get(pArrayListArcade,indexArcadeBaja);
+					ll_remove(pArrayListArcade,indexArcadeBaja);
 				}
 			}
 			if(!ll_remove(pArrayListRoom,indexBaja)){

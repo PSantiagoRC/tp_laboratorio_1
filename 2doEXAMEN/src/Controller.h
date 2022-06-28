@@ -29,6 +29,6 @@ int controller_saveArcadesAsText(char* path , LinkedList* pArrayListArcade);
 int controller_removeArcade(LinkedList* pArrayListArcade, int idBaja,LinkedList* pArrayListGames,LinkedList* pArrayListRooms);
 int controller_buscarPorIdLinkedListArcades(LinkedList* pArrayListArcades, int id);
 int controller_buscarPorRelSalaLinkedListArcades(LinkedList* pArrayListArcade, int relSala);
-
+int controller_editArcade(LinkedList* pArrayListArcade, LinkedList* pArrayListGame, LinkedList* pArrayListRooms);
 
 
