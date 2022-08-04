@@ -1,0 +1,301 @@
+﻿id,name,type,address
+1,Absolute Zero,Shopping,81 Warbler Hill
+2,Acid green,Local,413 Kingsford Pass
+3,Aero,Shopping,7 Summer Ridge Point
+4,Aero blue,Local,581 Lerdahl Way
+5,African violet,Shopping,2 Kenwood Crossing
+6,Air superiority blue,Local,68682 Gerald Point
+7,Alabaster,Shopping,3 Washington Lane
+8,Alizarin,Local,4232 West Lane
+9,Alice blue,Shopping,52723 Stone Corner Crossing
+10,Alloy orange,Local,20 Forest Run Crossing
+11,Almond,Shopping,2802 Mallard Hill
+12,Amaranth,Local,32500 Division Plaza
+13,Amaranth (M&P),Shopping,4064 4th Trail
+14,Amaranth pink,Local,3204 Arapahoe Court
+15,Amaranth purple,Shopping,8379 Utah Plaza
+16,Amaranth red,Local,88 Colorado Road
+17,Amazon,Shopping,628 Jenna Trail
+18,Amber,Local,990 Columbus Point
+19,Amber (SAE/ECE),Shopping,32584 Porter Parkway
+20,Amethyst,Local,52 Thompson Alley
+21,Android green,Shopping,1562 Miller Park
+22,Antique brass,Local,1912 Westerfield Lane
+23,Antique bronze,Shopping,1 Milwaukee Way
+24,Antique fuchsia,Local,4 Eggendart Terrace
+25,Antique ruby,Shopping,4 Dayton Place
+26,Antique white,Local,6 Sycamore Trail
+27,Ao (English),Shopping,03368 Colorado Street
+28,Apple green,Local,3104 Mallory Trail
+29,Apricot,Shopping,659 Messerschmidt Park
+30,Aqua,Local,136 Paget Street
+31,Aquamarine,Shopping,85 Roxbury Plaza
+32,Arctic lime,Local,4 Lakewood Road
+33,Army green,Shopping,9 Forest Dale Pass
+34,Artichoke,Local,79341 Chinook Point
+35,Arylide yellow,Shopping,3277 Bayside Road
+36,Ash gray,Local,41 Melody Way
+37,Asparagus,Shopping,651 Westport Alley
+38,Astronaut,Local,1 Namekagon Junction
+39,Atomic tangerine,Shopping,89003 Lighthouse Bay Road
+40,Auburn,Local,659 Lyons Hill
+41,Aureolin,Shopping,094 Londonderry Park
+42,Avocado,Local,563 Moose Road
+43,Azure,Shopping,456 Steensland Parkway
+44,Azure (X11/web color),Local,5211 Eagan Lane
+45,Baby blue,Shopping,0588 Hovde Terrace
+46,Baby blue eyes,Local,177 Columbus Alley
+47,Baby pink,Shopping,99540 Prentice Plaza
+48,Baby powder,Local,32 Annamark Way
+49,Baker-Miller pink,Shopping,9 Magdeline Hill
+50,Banana Mania,Local,15 Farragut Street
+51,Barbie Pink,Shopping,11773 Shopko Avenue
+52,Barn red,Local,3 Petterle Terrace
+53,Battleship grey,Shopping,36 Arrowood Trail
+54,Beau blue,Local,43 Northview Trail
+55,Beaver,Shopping,868 Corscot Hill
+56,Beige,Local,8 Superior Hill
+57,B'dazzled blue,Shopping,835 Eggendart Pass
+58,Big dip o’ruby,Local,968 Emmet Alley
+59,Bisque,Shopping,8098 Del Sol Junction
+60,Bistre,Local,7 Westend Circle
+61,Bistre brown,Shopping,979 Shopko Center
+62,Bitter lemon,Local,8126 Hallows Circle
+63,Bitter lime,Shopping,5100 Oak Valley Crossing
+64,Bittersweet,Local,88822 Blue Bill Park Drive
+65,Bittersweet shimmer,Shopping,927 Rowland Court
+66,Black,Local,552 Grover Alley
+67,Black bean,Shopping,7239 Coleman Drive
+68,Black chocolate,Local,461 Mitchell Terrace
+69,Black coffee,Shopping,1 Lakeland Terrace
+70,Black coral,Local,67 Service Avenue
+71,Black olive,Shopping,786 Ridgeway Junction
+72,Black Shadows,Local,39122 Nobel Road
+73,Blanched almond,Shopping,6146 Nevada Parkway
+74,Blast-off bronze,Local,46782 Crest Line Junction
+75,Bleu de France,Shopping,2 Melvin Alley
+76,Blizzard blue,Local,17398 Artisan Lane
+77,Blond,Shopping,40 Milwaukee Drive
+78,Blood red,Local,1 Daystar Point
+79,Blue,Shopping,0651 Ruskin Crossing
+80,Blue (Crayola),Local,63 Del Sol Center
+81,Blue (Munsell),Shopping,6 Messerschmidt Lane
+82,Blue (NCS),Local,1 Coleman Pass
+83,Blue (Pantone),Shopping,789 Dixon Plaza
+84,Blue (pigment),Local,90192 Huxley Way
+85,Blue (RYB),Shopping,61771 Fairview Lane
+86,Blue bell,Local,71035 Magdeline Court
+87,Blue-gray,Shopping,190 Brown Trail
+88,Blue-green,Local,40 Hoepker Crossing
+89,Blue-green (color wheel),Shopping,544 Schiller Crossing
+90,Blue jeans,Local,56 Sachs Hill
+91,Blue sapphire,Shopping,010 Maryland Place
+92,Blue-violet,Local,7 Maywood Parkway
+93,Blue-violet (Crayola),Shopping,7 Brown Trail
+94,Blue-violet (color wheel),Local,1039 Center Road
+95,Blue yonder,Shopping,1 Tennyson Center
+96,Bluetiful,Local,8197 Kensington Trail
+97,Blush,Shopping,21 Algoma Parkway
+98,Bole,Local,121 Nobel Drive
+99,Bone,Shopping,401 Montana Alley
+100,Bottle green,Local,651 5th Pass
+101,Brandy,Shopping,6 4th Point
+102,Brick red,Local,9004 Valley Edge Road
+103,Bright green,Shopping,7 Arkansas Pass
+104,Bright lilac,Local,73771 Ramsey Point
+105,Bright maroon,Shopping,995 Armistice Court
+106,Bright navy blue,Local,8653 Bluestem Plaza
+107,Bright yellow (Crayola),Shopping,96 Monterey Place
+108,Brilliant rose,Local,0614 Luster Place
+109,Brink pink,Shopping,06616 Charing Cross Avenue
+110,British racing green,Local,3735 Hansons Point
+111,Bronze,Shopping,17473 West Street
+112,Brown,Local,0518 Anhalt Center
+113,Brown sugar,Shopping,84 Ilene Parkway
+114,Brunswick green,Local,25 Karstens Junction
+115,Bud green,Shopping,75 Homewood Plaza
+116,Buff,Local,16 Stang Avenue
+117,Burgundy,Shopping,36163 Fieldstone Alley
+118,Burlywood,Local,473 Moulton Road
+119,Burnished brown,Shopping,27 Shoshone Point
+120,Burnt orange,Local,3 Morrow Circle
+121,Burnt sienna,Shopping,90333 Scofield Drive
+122,Burnt umber,Local,6429 Burrows Point
+123,Byzantine,Shopping,67102 Porter Road
+124,Byzantium,Local,6 Petterle Park
+125,Cadet,Shopping,977 Larry Court
+126,Cadet blue,Local,492 Rowland Park
+127,Cadet blue (Crayola),Shopping,7740 Delladonna Terrace
+128,Cadet grey,Local,29 Stephen Street
+129,Cadmium green,Shopping,31 New Castle Pass
+130,Cadmium orange,Local,997 Dennis Plaza
+131,Cadmium red,Shopping,598 Buell Pass
+132,Cadmium yellow,Local,10070 Bellgrove Trail
+133,Café au lait,Shopping,41 Nancy Road
+134,Café noir,Local,2 Crescent Oaks Hill
+135,Cambridge blue,Shopping,0332 Forster Way
+136,Camel,Local,1192 Dunning Junction
+137,Cameo pink,Shopping,1 Melvin Plaza
+138,Canary,Local,55269 Goodland Crossing
+139,Canary yellow,Shopping,81 Dryden Park
+140,Candy apple red,Local,9 Bobwhite Place
+141,Candy pink,Shopping,1398 Russell Place
+142,Capri,Local,8481 Luster Hill
+143,Caput mortuum,Shopping,8085 Scoville Street
+144,Cardinal,Local,57 Luster Plaza
+145,Caribbean green,Shopping,83242 Hintze Trail
+146,Carmine,Local,585 Jenifer Terrace
+147,Carmine (M&P),Shopping,51137 Transport Avenue
+148,Carnation pink,Local,10343 Annamark Park
+149,Carnelian,Shopping,3647 Stang Center
+150,Carolina blue,Local,7082 Sachtjen Terrace
+151,Carrot orange,Shopping,2187 Dexter Street
+152,Castleton green,Local,707 Shasta Drive
+153,Catawba,Shopping,6828 Summer Ridge Alley
+154,Cedar Chest,Local,329 Westend Trail
+155,Celadon,Shopping,6 Cambridge Hill
+156,Celadon blue,Local,183 John Wall Court
+157,Celadon green,Shopping,3 Eagle Crest Circle
+158,Celeste,Local,2129 Helena Court
+159,Celtic blue,Shopping,42 Farragut Trail
+160,Cerise,Local,77530 Hauk Parkway
+161,Cerulean,Shopping,394 Myrtle Hill
+162,Cerulean blue,Local,00163 Pine View Pass
+163,Cerulean frost,Shopping,29004 Moulton Lane
+164,Cerulean (Crayola),Local,8 Service Junction
+165,CG blue,Shopping,77 Florence Center
+166,CG red,Local,2 Melrose Court
+167,Champagne,Shopping,89 Towne Parkway
+168,Champagne pink,Local,0 Morningstar Way
+169,Charcoal,Shopping,033 Old Gate Junction
+170,Charleston green,Local,54162 Burrows Street
+171,Charm pink,Shopping,9 Northridge Lane
+172,Chartreuse (traditional),Local,8 Killdeer Avenue
+173,Chartreuse (web),Shopping,549 Grover Alley
+174,Cherry blossom pink,Local,3154 Heffernan Drive
+175,Chestnut,Shopping,08 Barby Lane
+176,Chili red,Local,70 Forest Parkway
+177,China pink,Shopping,78 Truax Point
+178,China rose,Local,974 Donald Plaza
+179,Chinese red,Shopping,086 Schiller Street
+180,Chinese violet,Local,775 Jenifer Lane
+181,Chinese yellow,Shopping,1551 Straubel Avenue
+182,Chocolate (traditional),Local,4 Shelley Point
+183,Chocolate (web),Shopping,7 Roth Alley
+184,Chocolate Cosmos,Local,54572 Ramsey Avenue
+185,Chrome yellow,Shopping,3259 7th Point
+186,Cinereous,Local,8329 Crownhardt Trail
+187,Cinnabar,Shopping,43 Kingsford Trail
+188,Cinnamon Satin,Local,40 Stone Corner Park
+189,Citrine,Shopping,929 Talmadge Plaza
+190,Citron,Local,82 Starling Pass
+191,Claret,Shopping,021 Memorial Point
+192,Cobalt blue,Local,85459 Forest Run Park
+193,Cocoa brown,Shopping,0 Northfield Street
+194,Coffee,Local,2124 Reinke Point
+195,Columbia Blue,Shopping,02844 Rieder Trail
+196,Congo pink,Local,044 Loeprich Way
+197,Cool grey,Shopping,75 Debra Lane
+198,Copper,Local,0 American Ash Lane
+199,Copper (Crayola),Shopping,0 Mccormick Way
+200,Copper penny,Local,0 Lunder Pass
+201,Copper red,Shopping,6 Porter Circle
+202,Copper rose,Local,6194 Hollow Ridge Way
+203,Coquelicot,Shopping,385 Thompson Park
+204,Coral,Local,977 Anzinger Terrace
+205,Coral pink,Shopping,79218 Old Gate Street
+206,Cordovan,Local,0 South Circle
+207,Corn,Shopping,0 Cascade Way
+208,Cornell red,Local,22840 Marcy Terrace
+209,Cornflower blue,Shopping,17 Artisan Avenue
+210,Cornsilk,Local,9282 Messerschmidt Terrace
+211,Cosmic cobalt,Shopping,5031 Dakota Terrace
+212,Cosmic latte,Local,3988 Luster Pass
+213,Coyote brown,Shopping,9 Continental Point
+214,Cotton candy,Local,534 Eagan Way
+215,Cream,Shopping,638 Crest Line Circle
+216,Crimson,Local,9513 Express Parkway
+217,Crimson (UA),Shopping,23978 Hovde Plaza
+218,Crystal,Local,8 Westport Place
+219,Cultured,Shopping,3653 Bobwhite Alley
+220,Cyan,Local,1 Ridgeview Way
+221,Cyan (process),Shopping,7985 Service Court
+222,Cyber grape,Local,32 Myrtle Hill
+223,Cyber yellow,Shopping,156 Forest Crossing
+224,Cyclamen,Local,3892 Hudson Road
+225,Dark blue-gray,Shopping,55567 Sheridan Trail
+226,Dark brown,Local,7218 Schurz Way
+227,Dark byzantium,Shopping,60419 Brentwood Alley
+228,Dark cornflower blue,Local,2 Mariners Cove Parkway
+229,Dark cyan,Shopping,9 Fulton Terrace
+230,Dark electric blue,Local,2739 Miller Hill
+231,Dark goldenrod,Shopping,0055 Eagan Junction
+232,Dark green,Local,1079 Carpenter Alley
+233,Dark green (X11),Shopping,7167 Eastwood Road
+234,Dark jungle green,Local,578 Elgar Street
+235,Dark khaki,Shopping,9 Scofield Terrace
+236,Dark lava,Local,61932 Spaight Court
+237,Dark liver,Shopping,65 Birchwood Court
+238,Dark liver (horses),Local,0 Northfield Terrace
+239,Dark magenta,Shopping,426 Meadow Valley Terrace
+240,Dark moss green,Local,356 Erie Center
+241,Dark olive green,Shopping,244 Westerfield Drive
+242,Dark orange,Local,89 Springs Circle
+243,Dark orchid,Shopping,75 Bultman Street
+244,Dark pastel green,Local,3522 Schmedeman Avenue
+245,Dark purple,Shopping,6599 Daystar Avenue
+246,Dark red,Local,80 Starling Point
+247,Dark salmon,Shopping,3498 Riverside Crossing
+248,Dark sea green,Local,6730 Orin Parkway
+249,Dark sienna,Shopping,35 Pond Court
+250,Dark sky blue,Local,2724 Springs Center
+251,Dark slate blue,Shopping,3 Vernon Lane
+252,Dark slate gray,Local,3 Swallow Place
+253,Dark spring green,Shopping,9 Hanson Pass
+254,Dark turquoise,Local,5 Crest Line Pass
+255,Dark violet,Shopping,11632 Mcguire Drive
+256,Dartmouth green,Local,3 Towne Crossing
+257,Davy's grey,Shopping,36 High Crossing Place
+258,Deep cerise,Local,53681 Golf Course Circle
+259,Deep champagne,Shopping,79895 Cascade Center
+260,Deep chestnut,Local,80837 Saint Paul Pass
+261,Deep jungle green,Shopping,58099 High Crossing Pass
+262,Deep pink,Local,660 6th Avenue
+263,Deep saffron,Shopping,2082 Graceland Trail
+264,Deep sky blue,Local,794 Dryden Avenue
+265,Deep Space Sparkle,Shopping,46000 Fallview Drive
+266,Deep taupe,Local,91 Pepper Wood Point
+267,Denim,Shopping,92 Little Fleur Junction
+268,Denim blue,Local,2356 Mccormick Point
+269,Desert,Shopping,83 Blue Bill Park Junction
+270,Desert sand,Local,68 Monterey Parkway
+271,Dim gray,Shopping,963 Norway Maple Trail
+272,Dodger blue,Local,9 Bunting Lane
+273,Dogwood rose,Shopping,22 Pine View Street
+274,Drab,Local,24 Independence Lane
+275,Duke blue,Shopping,055 Cottonwood Place
+276,Dutch white,Local,250 Mallory Point
+277,Earth yellow,Shopping,76 Brown Place
+278,Ebony,Local,8 Cardinal Road
+279,Ecru,Shopping,18 Hayes Avenue
+280,Eerie black,Local,61 Blaine Plaza
+281,Eggplant,Shopping,42833 Havey Circle
+282,Eggshell,Local,76712 Eagle Crest Avenue
+283,Egyptian blue,Shopping,3904 Morning Park
+284,Eigengrau,Local,6420 Cody Hill
+285,Electric blue,Shopping,05 Dorton Circle
+286,Electric green,Local,92 Village Green Street
+287,Electric indigo,Shopping,346 Kings Place
+288,Electric lime,Local,0392 Claremont Terrace
+289,Electric purple,Shopping,1794 Hoepker Avenue
+290,Electric violet,Local,0 Mosinee Alley
+291,Emerald,Shopping,3027 Quincy Court
+292,Eminence,Local,24456 Brentwood Street
+293,English green,Shopping,172 Everett Parkway
+294,English lavender,Local,63012 Hanson Pass
+295,English red,Shopping,585 Clemons Junction
+296,English vermillion,Local,77006 Pennsylvania Point
+297,English violet,Shopping,1318 Bowman Parkway
+298,Erin,Local,7 Express Crossing
+299,Eton blue,Shopping,845 Nobel Place
+300,Fallow,Local,22838 Lyons Trail
